@@ -1,0 +1,3 @@
+# MySecondApp
+AndroidStudioとGitHubの連携お試し
+どちらもまだ勉強中、まずは触ってみて練習するための場所を作成
